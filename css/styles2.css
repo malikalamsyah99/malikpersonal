@@ -1,0 +1,28 @@
+/****************************TAG SELECTIONS*****************************/
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+
+img:hover {
+  background-color: yellow;
+}
+
+/****************************CLASS SELECTIONS*****************************/
+
+.bacon { /* class bisa digunakan berkali kali */
+    background-color: green;   
+}
+
+.brocoli {
+    background-color: red;
+}
+
+#heading { /* id hanya bisa digunakan sekali */
+    color: blue;
+}
+
+.circular {
+    border-radius: 100%;
+}
